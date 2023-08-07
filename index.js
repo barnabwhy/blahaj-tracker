@@ -1,5 +1,6 @@
 // const IKEA_API_STORES = "https://www.ikea.com/gb/en/meta-data/navigation/stores-detailed.json";
-const IKEA_API_STORES = "stores-detailed.json";
+// const IKEA_API_STORES = "stores-detailed.json";
+const IKEA_API_STORES = "stores";
 const IKEA_API_STOCK = "https://api.ingka.ikea.com/cia/availabilities/ru/gb?itemNos=%itemNos%&zip=%postCode%";
 const IKEA_CLIENT_ID = "b6c117e5-ae61-4ef5-b4cc-e0b1e37f0631";
 const GOOGLE_API_KEY = "AIzaSyCe4v19GE_1Y8bN-x31b3__RxRXvNWDZPk";
@@ -58,7 +59,7 @@ async function renderBlahajStock(storeStock) {
             <h3>Nearest BLÅHAJ (55cm)</h3>
             <p>Out of stock everywhere</p>
             <p>😭</p>
-            </div>`          
+            </div>`
         }
     }
     for(let i = 0; i < storeData.length; i++) {
@@ -77,7 +78,7 @@ async function renderBlahajStock(storeStock) {
             <h3>Nearest BLÅHAJ (100cm)</h3>
             <p>Out of stock everywhere</p>
             <p>😭</p>
-            </div>`          
+            </div>`
         }
     }
 
@@ -105,7 +106,7 @@ function getCurrentPostCode() {
         reverseGeoLookup(position.coords.latitude, position.coords.longitude)
         .then(postCode => {
             cachedPostCode = postCode;
-            resolve(postCode);   
+            resolve(postCode);
         })
         .catch(reject);
     })
@@ -148,7 +149,7 @@ function getIkeaStock(itemNos, postCode) {
     });
 }
 
-function getDistance(lat1, lon1, lat2, lon2) 
+function getDistance(lat1, lon1, lat2, lon2)
 {
     var R = 6371;
     var dLat = deg2Rad(lat2-lat1);
@@ -157,12 +158,12 @@ function getDistance(lat1, lon1, lat2, lon2)
     var lat2 = deg2Rad(lat2);
 
     var a = Math.sin(dLat/2) * Math.sin(dLat/2) +
-        Math.sin(dLon/2) * Math.sin(dLon/2) * Math.cos(lat1) * Math.cos(lat2); 
-    var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a)); 
+        Math.sin(dLon/2) * Math.sin(dLon/2) * Math.cos(lat1) * Math.cos(lat2);
+    var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
     var d = R * c;
     return d;
 }
-function deg2Rad(Value) 
+function deg2Rad(Value)
 {
     return Value * Math.PI / 180;
 }
@@ -172,14 +173,14 @@ function getCurrentPosition() {
     return new Promise((resolve, reject) => {
         if(cachedPosition)
             return resolve(cachedPosition);
-            
+
         if (navigator.geolocation) {
             var timeoutVal = 10 * 1000 * 1000;
             navigator.geolocation.getCurrentPosition(
-                (position) => {    
+                (position) => {
                     cachedPosition = position;
-                    resolve(position);   
-                }, 
+                    resolve(position);
+                },
                 (err) => reject(err.message),
                 { enableHighAccuracy: true, timeout: timeoutVal, maximumAge: 0 }
             );
