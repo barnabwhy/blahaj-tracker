@@ -3,7 +3,6 @@
 const IKEA_API_STORES = "stores";
 const IKEA_API_STOCK = "https://api.ingka.ikea.com/cia/availabilities/ru/gb?itemNos=%itemNos%&zip=%postCode%";
 const IKEA_CLIENT_ID = "b6c117e5-ae61-4ef5-b4cc-e0b1e37f0631";
-const GOOGLE_API_KEY = "AIzaSyCe4v19GE_1Y8bN-x31b3__RxRXvNWDZPk";
 
 let storeData = [];
 (async () => {
@@ -114,7 +113,7 @@ function getCurrentPostCode() {
 
 function reverseGeoLookup(lat, lon) {
     return new Promise((resolve, reject) => {
-        fetch("https://maps.googleapis.com/maps/api/geocode/json?latlng="+lat+","+lon+"&sensor=true&key="+GOOGLE_API_KEY)
+        fetch("geocode?lat="+lat+"&lon="+lon)
             .then((response) => response.json())
             .then((data) => {
                 let result = data.results;
