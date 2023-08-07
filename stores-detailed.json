@@ -1,0 +1,5930 @@
+[
+    {
+        "id": "113",
+        "name": "IKEA Belfast",
+        "lat": "54.6288",
+        "lng": "-5.8541",
+        "address": {
+            "street": "Holywood Exchange, 306 Airport RD W",
+            "zipCode": "BT3 9EJ",
+            "city": "Belfast",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBANN",
+            "displayAddress": "Holywood Exchange, 306 Airport RD W, Belfast"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Belfast",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "13:00",
+                    "close": "18:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "12:00",
+                    "close": "17:00",
+                    "reason": "Boxing Day"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Eve"
+                },
+                {
+                    "reason": "Christmas Day",
+                    "date": "2022-12-25"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:30",
+                    "close": "19:30"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:30",
+                    "close": "19:30"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:30",
+                    "close": "19:30"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:30",
+                    "close": "19:30"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:30",
+                    "close": "19:30"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:30",
+                    "close": "19:30"
+                },
+                {
+                    "day": "SUN",
+                    "open": "12:30",
+                    "close": "17:00"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "13:00",
+                    "close": "18:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "13:00",
+                    "close": "18:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "13:00",
+                    "close": "18:00"
+                }
+            ]
+        },
+        "extras": {
+            "restaurant": [
+                {
+                    "heading": "Boxing Day:",
+                    "body": "12:00 - 16:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "heading": "",
+                    "body": "Please collect your order on your selected day, once you have received your 'ready to collect' email.​​"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/belfast/",
+        "placeId": "ChIJbTdSGBoKYUgRiBIFxKXDnQ8",
+        "displayNameAlternate": "IKEA Belfast"
+    },
+    {
+        "id": "264",
+        "name": "IKEA Bristol",
+        "lat": "51.4734",
+        "lng": "-2.5675",
+        "address": {
+            "street": "Eastgate Road, Eastville",
+            "zipCode": "BS5 6XX",
+            "city": "Bristol",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBBST",
+            "displayAddress": "Eastgate Road, Eastville, Bristol"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Bristol",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "11:00",
+                    "close": "17:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "New Year's Eve"
+                },
+                {
+                    "date": "2023-01-01",
+                    "open": "11:00",
+                    "close": "17:00",
+                    "reason": "New Year's Day"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Eve"
+                },
+                {
+                    "date": "2022-12-25",
+                    "reason": "Christmas Day"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "16:00"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "17:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 - 19:00"
+                },
+                {
+                    "heading": "Browsing hours:",
+                    "body": "Sunday: 10:00 - 11:00"
+                }
+            ],
+            "restaurant": [
+                {
+                    "heading": "Boxing Day:",
+                    "body": "11:00 - 16:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "10:00 - 17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 - 19:00"
+                },
+                {
+                    "body": "Please collect your order on your selected day, once you have received your 'ready to collect' email.​  The Click & Collect point is located in-store in the customer service area"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:00 - 17:00"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/bristol/",
+        "placeId": "ChIJc5jqcDyOcUgRZHFghjC71Lg",
+        "displayNameAlternate": "IKEA Bristol"
+    },
+    {
+        "id": "267",
+        "name": "IKEA Cardiff",
+        "lat": "51.4626",
+        "lng": "-3.1886",
+        "address": {
+            "street": "Ferry Road, Grangetown",
+            "zipCode": "CF11 0XR",
+            "city": "Cardiff",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBCRF",
+            "displayAddress": "Ferry Road, Grangetown, Cardiff"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Cardiff",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "New Year's Eve"
+                },
+                {
+                    "date": "2023-01-01",
+                    "open": "11:00",
+                    "close": "17:00",
+                    "reason": "New Year's Eve"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Eve"
+                },
+                {
+                    "date": "2022-12-25",
+                    "reason": "Christmas Day"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:30",
+                    "close": "19:15"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:30",
+                    "close": "19:15"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:30",
+                    "close": "19:15"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:30",
+                    "close": "19:15"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:30",
+                    "close": "19:15"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:30",
+                    "close": "19:15"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:30",
+                    "close": "16:15"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "12:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "12:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "12:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "12:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "12:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "12:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "12:00",
+                    "close": "17:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "09:00",
+                    "close": "17:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 - 18:00"
+                }
+            ],
+            "restaurant": [
+                {
+                    "heading": "Boxing Day:",
+                    "body": "09:30 - 17:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "09:30 - 17:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:30 - 16:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 - 18:00"
+                },
+                {
+                    "body": "Please collect your order on your selected day, once you have received your 'ready to collect' email.​​"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "09:00 - 17:00"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/cardiff/",
+        "placeId": "ChIJs_abb1wDbkgR8O8mdcl3PcY",
+        "displayNameAlternate": "IKEA Cardiff"
+    },
+    {
+        "id": "144",
+        "name": "IKEA London - Croydon",
+        "lat": "51.3794",
+        "lng": "-0.124",
+        "address": {
+            "street": "Access via Hesterman Way",
+            "zipCode": "CR0 4YA",
+            "city": "Croydon",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBCRY",
+            "displayAddress": "Access via Hesterman Way, Croydon"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Croydon",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:30"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:30"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "09:00",
+                    "close": "17:00",
+                    "reason": "New Year's Eve"
+                },
+                {
+                    "date": "2023-01-01",
+                    "open": "11:00",
+                    "close": "17:00",
+                    "reason": "New Year's Day"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Eve"
+                },
+                {
+                    "date": "2022-12-25",
+                    "reason": "Christmas Day"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:00",
+                    "close": "20:30"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:00",
+                    "close": "20:30"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:00",
+                    "close": "20:30"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:00",
+                    "close": "20:30"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "16:30"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:30"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "21:30"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:30"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "21:30"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "08:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "08:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "08:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "08:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "08:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "08:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "09:00",
+                    "close": "17:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 - 21:00"
+                },
+                {
+                    "heading": "Browsing hours:",
+                    "body": "Monday - Friday: 09:00 - 10:00, Sunday: 10:00 - 11:00"
+                }
+            ],
+            "restaurant": [
+                {
+                    "heading": "Boxing Day:",
+                    "body": "09:30 - 17:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "09:00 - 16:30"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:00 - 16:30"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 - 21:00"
+                },
+                {
+                    "body": "Please collect your order on your selected day, once you have received your 'ready to collect' email.​​"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:00 - 17:00"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/croydon/",
+        "placeId": "ChIJf-ViPhoHdkgRtlp0srdIV-U",
+        "displayNameAlternate": "IKEA Croydon"
+    },
+    {
+        "id": "265",
+        "name": "IKEA Edinburgh - Straiton",
+        "lat": "55.8795",
+        "lng": "-3.1705",
+        "address": {
+            "street": "Costkea way, Loanhead",
+            "zipCode": "EH20 9BY",
+            "city": "Edinburgh, Midlothian",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBEDH",
+            "displayAddress": "Costkea way, Loanhead, Edinburgh, Midlothian"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Edinburgh",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "20:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-23",
+                    "open": "09:30",
+                    "close": "18:00"
+                },
+                {
+                    "date": "2022-12-26",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "09:30",
+                    "close": "18:00",
+                    "reason": "New Year's Eve"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Eve"
+                },
+                {
+                    "date": "2022-12-25",
+                    "reason": "Christmas Day"
+                },
+                {
+                    "date": "2023-01-01",
+                    "reason": "New Year's Day"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:30",
+                    "close": "19:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "09:30",
+                    "close": "19:00"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "20:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "20:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "09:00",
+                    "close": "20:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Browsing hours:",
+                    "body": "Monday - Sunday: 09:30 - 10:00"
+                }
+            ],
+            "restaurant": [
+                {
+                    "heading": "23rd December:",
+                    "body": "09:30 - 17:00"
+                },
+                {
+                    "heading": "Boxing Day:",
+                    "body": "10:00 - 17:00"
+                },
+                {
+                    "heading": "New Year's Eve",
+                    "body": "09:30 - 17:00"
+                }
+            ],
+            "bistro": [
+                {
+                    "heading": "23rd December:",
+                    "body": "10:00 - 18:00"
+                },
+                {
+                    "heading": "Boxing Day:",
+                    "body": "10:00 - 18:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "10:00 - 18:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "heading": "23rd December:",
+                    "body": "10:00 - 18:00"
+                },
+                {
+                    "heading": "Boxing Day:",
+                    "body": "10:00 - 18:00"
+                },
+                {
+                    "body": "10:00 - 18:00",
+                    "heading": "New Year's Eve:"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "body": "Please collect your order on your selected day, once you have received your 'ready to collect' email."
+                },
+                {
+                    "heading": "23rd December:",
+                    "body": "09:00 - 18:00"
+                },
+                {
+                    "heading": "Boxing Day:",
+                    "body": "10:00 - 18:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "09:00 - 18:00"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/edinburgh/",
+        "placeId": "ChIJnRPngle_h0gRNJGCAQVLq1U",
+        "displayNameAlternate": "IKEA Edinburgh"
+    },
+    {
+        "id": "548",
+        "name": "IKEA Exeter",
+        "lat": "50.7068",
+        "lng": "-3.4775",
+        "address": {
+            "street": "1 IKEA WAY, off Newcourt Way",
+            "zipCode": "EX2 7RX",
+            "city": "Exeter",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBDEV",
+            "displayAddress": "1 IKEA WAY, off Newcourt Way, Exeter"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Exeter",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "19:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:30",
+                    "close": "16:30"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "10:00",
+                    "close": "16:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-29",
+                    "open": "09:00",
+                    "close": "20:00"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "09:30",
+                    "close": "17:00",
+                    "reason": "New Year's Eve"
+                },
+                {
+                    "date": "2023-01-01",
+                    "open": "10:00",
+                    "close": "16:30",
+                    "reason": "New Year's Day"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Eve"
+                },
+                {
+                    "date": "2022-12-25",
+                    "reason": "Christmas Day"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:30",
+                    "close": "19:30"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:30",
+                    "close": "19:30"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:30",
+                    "close": "19:30"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:30",
+                    "close": "19:30"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:30",
+                    "close": "19:30"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "18:30"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "16:00"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "11:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "11:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "11:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "11:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "11:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "11:00",
+                    "close": "19:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "16:30"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "11:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "11:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "11:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "11:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "11:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "19:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "16:30"
+                }
+            ],
+            "smaland": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "16:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "19:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "09:00",
+                    "close": "17:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 - 20:00"
+                },
+                {
+                    "heading": "Browsing hours:",
+                    "body": "Monday - Friday: 09:30 - 10:00, Sunday: 10:00 - 10:30"
+                }
+            ],
+            "restaurant": [
+                {
+                    "heading": "Boxing Day:",
+                    "body": "10:00 - 15:30"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "09:30 - 16:30"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:00 - 16:00"
+                }
+            ],
+            "bistro": [
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "10:00 - 17:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:30 - 17:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "10:00 - 17:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:30 - 17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 - 19:00"
+                },
+                {
+                    "body": "Please collect your order on your selected day, once you have received your 'ready to collect' email."
+                },
+                {
+                    "heading": "29th December:",
+                    "body": "09:00 - 19:00"
+                },
+                {
+                    "heading": "30th December:",
+                    "body": "09:00 - 17:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "09:00 - 17:00"
+                },
+                {
+                    "body": "09:00 - 17:00",
+                    "heading": "New Year's Day:"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/exeter/",
+        "placeId": "ChIJdWwWzF6hbUgRq4zRPDkHzkk",
+        "displayNameAlternate": "IKEA Exeter"
+    },
+    {
+        "id": "143",
+        "name": "IKEA Newcastle - Gateshead",
+        "lat": "54.9635",
+        "lng": "-1.7066",
+        "address": {
+            "street": "Metro Park West",
+            "zipCode": "NE11 9XS",
+            "city": "Gateshead, Tyne & Wear",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBGAT",
+            "displayAddress": "Metro Park West, Gateshead, Tyne & Wear"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Gateshead",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "New Year's Eve"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Eve"
+                },
+                {
+                    "date": "2022-12-25",
+                    "reason": "Christmas Day"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:30",
+                    "close": "19:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "16:00"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "09:00",
+                    "close": "17:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Bank  holiday:",
+                    "body": "10:00 - 19:00"
+                },
+                {
+                    "heading": "Browsing hours:",
+                    "body": "Monday - Saturday: 09:30 - 10:00, Sunday: 10:00 - 11:00"
+                }
+            ],
+            "restaurant": [
+                {
+                    "heading": "Boxing Day:",
+                    "body": "09:30 - 17:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "09:30 - 17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 - 19:00"
+                },
+                {
+                    "body": "Please collect your order on your selected day, once you have received your 'ready to collect' email.​​"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/gateshead/",
+        "placeId": "ChIJ0eHlsEt3fkgRkolN9rr7V9Y",
+        "displayNameAlternate": "IKEA Gateshead"
+    },
+    {
+        "id": "266",
+        "name": "IKEA Glasgow - Braehead",
+        "lat": "55.868",
+        "lng": "-4.3572",
+        "address": {
+            "street": "99 Kings Inch Drive",
+            "zipCode": "G51 4FB",
+            "city": "Glasgow",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBGLG",
+            "displayAddress": "99 Kings Inch Drive, Glasgow"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Glasgow",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "20:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "10:00",
+                    "close": "17:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "10:00",
+                    "close": "17:00",
+                    "reason": "New Year's Eve"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Eve"
+                },
+                {
+                    "date": "2022-12-25",
+                    "reason": "Christmas Day"
+                },
+                {
+                    "reason": "New Year's Day",
+                    "date": "2023-01-01"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:30",
+                    "close": "19:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "09:30",
+                    "close": "19:00"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "20:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "20:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "20:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Browsing hours:",
+                    "body": "Monday - Sunday: 09:30 - 10:00"
+                }
+            ],
+            "restaurant": [
+                {
+                    "heading": "Boxing Day:",
+                    "body": "10:00 - 16:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "10:00 - 16:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "body": "Please collect your order on your selected day, only once you have received your collection notification email."
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/glasgow/",
+        "placeId": "ChIJ4yNa809PiEgRSpnJx5ddtDI",
+        "displayNameAlternate": "IKEA Glasgow"
+    },
+    {
+        "id": "567",
+        "name": "IKEA Greenwich",
+        "lat": "51.4897",
+        "lng": "0.015",
+        "address": {
+            "street": "55-57 Bugsby's Way",
+            "zipCode": "SE10 0QJ",
+            "city": "London, Greenwich",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBLND",
+            "displayAddress": "55-57 Bugsby's Way, London, Greenwich"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Greenwich",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "09:00",
+                    "close": "18:00",
+                    "reason": "New Year's Eve"
+                },
+                {
+                    "date": "2023-01-01",
+                    "open": "11:00",
+                    "close": "17:00",
+                    "reason": "New Year's Day"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Eve"
+                },
+                {
+                    "date": "2022-12-25",
+                    "reason": "Christmas Day"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "16:00"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 – 21:00​"
+                }
+            ],
+            "restaurant": [
+                {
+                    "heading": "Boxing Day:",
+                    "body": "10:00 - 17:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "09:00 - 17:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "11:00 - 16:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 – 21:00​"
+                },
+                {
+                    "body": "Please collect your order on your selected day, once you have received your 'ready to collect' email.​​"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/greenwich/",
+        "placeId": "ChIJ8f80J-ap2EcRzFyGTa3BmLE",
+        "displayNameAlternate": "IKEA Greenwich"
+    },
+    {
+        "id": "642",
+        "name": "IKEA London - Hammersmith",
+        "lat": "51.4935",
+        "lng": "-0.2403",
+        "address": {
+            "street": "King Street Hammersmith",
+            "zipCode": "W6 9HW",
+            "city": "London",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBHMF",
+            "displayAddress": "King Street Hammersmith, London"
+        },
+        "buClassification": {
+            "code": "SMALL",
+            "name": "IKEA SMALL STORE"
+        },
+        "displayName": "Hammersmith",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "09:00",
+                    "close": "18:00",
+                    "reason": "New Year's Eve"
+                },
+                {
+                    "date": "2023-01-01",
+                    "open": "11:00",
+                    "close": "17:00",
+                    "reason": "New Year's Day"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Eve"
+                },
+                {
+                    "date": "2022-12-25",
+                    "reason": "Christmas Day"
+                }
+            ]
+        },
+        "extras": {},
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/hammersmith/",
+        "placeId": "ChIJmwJzOxIPdkgRv9bpR0PLlN0",
+        "displayNameAlternate": "IKEA Hammersmith"
+    },
+    {
+        "id": "262",
+        "name": "IKEA Lakeside",
+        "lat": "51.4799",
+        "lng": "0.284",
+        "address": {
+            "street": "Heron Way, Lakeside",
+            "zipCode": "RM20 3WJ",
+            "city": "Essex",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBESS",
+            "displayAddress": "Heron Way, Lakeside, Essex"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Lakeside",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "New Year's Eve"
+                },
+                {
+                    "date": "2023-01-01",
+                    "open": "11:00",
+                    "close": "17:00",
+                    "reason": "New Year's Day"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Eve"
+                },
+                {
+                    "date": "2022-12-25",
+                    "reason": "Christmas Day"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "16:00"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "07:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "07:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "07:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "07:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "07:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "07:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "09:00",
+                    "close": "17:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 - 21:00"
+                },
+                {
+                    "heading": "Browsing hours:",
+                    "body": "Monday - Friday:  09:30 - 10:00, Sunday: 10:00 - 11:00"
+                }
+            ],
+            "restaurant": [
+                {
+                    "heading": "Boxing Day:",
+                    "body": "09:30 - 17:30"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "10:00 - 17:30"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:00 - 16:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "body": "10:00 - 21:00",
+                    "heading": "Bank holiday:"
+                },
+                {
+                    "body": "Please collect your order on your selected day, once you have received your 'ready to collect' email. Please make your way to the collection point in the marquee located in the car park."
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "10:00 - 18:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:00 - 16:00"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/lakeside/",
+        "placeId": "ChIJ2zE0OS232EcReg2C2xx3LFA",
+        "displayNameAlternate": "IKEA Lakeside"
+    },
+    {
+        "id": "261",
+        "name": "IKEA Leeds",
+        "lat": "53.7448",
+        "lng": "-1.6462",
+        "address": {
+            "street": "Holden Ing Way",
+            "zipCode": "WF17 9AE",
+            "city": "Birstall, Batley",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBLDS",
+            "displayAddress": "Holden Ing Way, Birstall, Batley"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Leeds",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "New Year's Eve"
+                },
+                {
+                    "date": "2023-01-01",
+                    "open": "11:00",
+                    "close": "17:00",
+                    "reason": "New Year's Day"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Eve"
+                },
+                {
+                    "date": "2022-12-25",
+                    "reason": "Christmas Day"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "16:00"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "smaland": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "19:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "19:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "19:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "19:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "19:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "09:00",
+                    "close": "17:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "09:00 - 20:00"
+                }
+            ],
+            "restaurant": [
+                {
+                    "heading": "Boxing Day:",
+                    "body": "09:30 - 17:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "09:30 - 17:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:30 - 16:00"
+                }
+            ],
+            "bistro": [
+                {
+                    "heading": "Boxing Day:",
+                    "body": "10:00 - 18:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "10:00 - 18:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "11:00 - 17:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "body": "10:00 - 18:00",
+                    "heading": "Boxing Day:"
+                },
+                {
+                    "body": "10:00 - 18:00",
+                    "heading": "New Year's Eve:"
+                },
+                {
+                    "body": "11:00 - 17:00",
+                    "heading": "New Year's Day:"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "09:00 - 20:00"
+                },
+                {
+                    "heading": "Boxing Day:",
+                    "body": "10:00 - 18:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "10:00 - 18:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "09:00 - 17:00"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/leeds/",
+        "placeId": "ChIJc2j9ePNfeUgR7LE-tjwSQ3U",
+        "displayNameAlternate": "IKEA Leeds"
+    },
+    {
+        "id": "186",
+        "name": "IKEA Manchester",
+        "lat": "53.4907",
+        "lng": "-2.1013",
+        "address": {
+            "street": "110 Wellington Road",
+            "zipCode": "OL6 7TE",
+            "city": "Greater Manchester",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBMAN",
+            "displayAddress": "110 Wellington Road, Greater Manchester"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Manchester",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "New Year's Eve"
+                },
+                {
+                    "date": "2023-01-01",
+                    "open": "11:00",
+                    "close": "17:00",
+                    "reason": "New Year's Day"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Day"
+                },
+                {
+                    "date": "2022-12-25",
+                    "reason": "Christmas Eve"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "16:00"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "09:00",
+                    "close": "17:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "09:00 - 20:00"
+                }
+            ],
+            "restaurant": [
+                {
+                    "heading": "Boxing Day:",
+                    "body": "09:30 - 17:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "09:30 - 17:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:30 - 16:00"
+                }
+            ],
+            "bistro": [
+                {
+                    "heading": "23rd December:",
+                    "body": "09:30 - 20:00"
+                },
+                {
+                    "body": "10:00 - 18:00",
+                    "heading": "Boxing Day:"
+                },
+                {
+                    "body": "10:00 - 18:00",
+                    "heading": "New Year's Eve:"
+                },
+                {
+                    "body": "11:00 - 17:00",
+                    "heading": "New Year's Day:"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "heading": "23rd December:",
+                    "body": "09:30 - 20:00"
+                },
+                {
+                    "heading": "Boxing Day:",
+                    "body": "10:00 - 18:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "10:00 - 18:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "11:00 - 17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "heading": "Bank Holiday:",
+                    "body": "09:00 - 20:00"
+                },
+                {
+                    "body": "Please collect your order on your selected day, once you have received your 'ready to collect' email.​​"
+                },
+                {
+                    "heading": "23rd December:",
+                    "body": "10:00 - 21:00"
+                },
+                {
+                    "body": "10:00 - 18:00",
+                    "heading": "Boxing Day:"
+                },
+                {
+                    "body": "10:00 - 18:00",
+                    "heading": "New Year's Eve:"
+                },
+                {
+                    "body": "09:00 - 18:00",
+                    "heading": "New Year's Day:"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/manchester/",
+        "placeId": "ChIJUZjmB1q2e0gRegqDGL69tiI",
+        "displayNameAlternate": "IKEA Manchester"
+    },
+    {
+        "id": "185",
+        "name": "IKEA Milton Keynes",
+        "lat": "52.0054",
+        "lng": "-0.7289",
+        "address": {
+            "street": "Goslington, Off Bletcham Way",
+            "zipCode": "MK1 1QB",
+            "city": "Milton Keynes",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBMIK",
+            "displayAddress": "Goslington, Off Bletcham Way, Milton Keynes"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Milton Keynes",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "New Year's Eve"
+                },
+                {
+                    "date": "2023-01-01",
+                    "open": "11:00",
+                    "close": "17:00",
+                    "reason": "New Year's Day"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Eve"
+                },
+                {
+                    "date": "2022-12-25",
+                    "reason": "Christmas Day"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "16:30"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "09:00",
+                    "close": "17:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 - 20:00"
+                },
+                {
+                    "heading": "Browsing hours:",
+                    "body": "Sunday: 10:00 - 11:00"
+                }
+            ],
+            "restaurant": [
+                {
+                    "heading": "Boxing Day:",
+                    "body": "11:00 - 16:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "10:00 - 17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 - 20:00"
+                },
+                {
+                    "body": "Please collect your order on your selected day, once you have received your 'ready to collect' email.​​"
+                },
+                {
+                    "heading": "Boxing Day:",
+                    "body": "11:00 - 16:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "10:00 - 17:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "11:00 - 16:00"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/milton-keynes/",
+        "placeId": "ChIJAZZI9yRVdkgRTMDKFPjIo9E",
+        "displayNameAlternate": "IKEA Milton Keynes"
+    },
+    {
+        "id": "263",
+        "name": "IKEA Nottingham",
+        "lat": "53.0017",
+        "lng": "-1.2851",
+        "address": {
+            "street": "Ikea Way, Giltbrook",
+            "zipCode": "NG16 2RP",
+            "city": "Nottingham",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBNTT",
+            "displayAddress": "Ikea Way, Giltbrook, Nottingham"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Nottingham",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "10:00",
+                    "close": "17:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "09:00",
+                    "close": "17:00",
+                    "reason": "New Year's Eve"
+                },
+                {
+                    "date": "2023-01-01",
+                    "open": "11:00",
+                    "close": "17:00",
+                    "reason": "New Year's Day, open 10 - 11am for browsing"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Eve"
+                },
+                {
+                    "date": "2022-12-25",
+                    "reason": "Christmas Day"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:00",
+                    "close": "20:30"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:00",
+                    "close": "20:30"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:00",
+                    "close": "20:30"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:00",
+                    "close": "20:30"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:00",
+                    "close": "20:30"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "20:30"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "16:30"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "smaland": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:30",
+                    "close": "16:30"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "09:00",
+                    "close": "17:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "09:00 -  19:00"
+                },
+                {
+                    "heading": "Browsing hours:",
+                    "body": "Sunday: 10:00 - 11:00"
+                }
+            ],
+            "restaurant": [
+                {
+                    "heading": "Boxing Day:",
+                    "body": "09:30 - 17:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "09:30 - 17:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "09:30 - 17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "08:00 -  19:00"
+                },
+                {
+                    "body": "Please collect your order on your selected day, once you have received your 'ready to collect' email.​​"
+                },
+                {
+                    "heading": "Boxing Day:",
+                    "body": "09:00 - 17:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "09:00 - 17:00"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/nottingham/",
+        "placeId": "ChIJCe1X93_BeUgRhhZmAlGqpXQ",
+        "displayNameAlternate": "IKEA Nottingham"
+    },
+    {
+        "id": "461",
+        "name": "IKEA Reading",
+        "lat": "51.4424",
+        "lng": "-1.0654",
+        "address": {
+            "street": "Pincents Kiln Industrial Pk, Theale",
+            "zipCode": "RG31 7SD",
+            "city": "Reading",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBRDG",
+            "displayAddress": "Pincents Kiln Industrial Pk, Theale, Reading"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Reading",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "10:00",
+                    "close": "18:00"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24"
+                },
+                {
+                    "date": "2022-12-25"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:30",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "16:00"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "smaland": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "18:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "16:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "08:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "08:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "08:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "08:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "08:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "08:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "09:00",
+                    "close": "17:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 – 21:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 – 21:00"
+                },
+                {
+                    "body": "Please collect your order on your selected day, once you have received your 'ready to collect' email.​​"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/reading/",
+        "placeId": "ChIJNdTrKz-ZdkgRsF58GOE_dTc",
+        "displayNameAlternate": "IKEA Reading"
+    },
+    {
+        "id": "519",
+        "name": "IKEA Sheffield",
+        "lat": "53.4071",
+        "lng": "-1.4108",
+        "address": {
+            "street": "Sheffield Road",
+            "zipCode": "S9 2YL",
+            "city": "Tinsley",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBSHF",
+            "displayAddress": "Sheffield Road, Tinsley"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Sheffield",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "New Year's Eve"
+                },
+                {
+                    "date": "2023-01-01",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "New Year's Day"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24"
+                },
+                {
+                    "date": "2022-12-25"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:30",
+                    "close": "20:30"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:30",
+                    "close": "20:30"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:30",
+                    "close": "20:30"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:30",
+                    "close": "20:30"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:30",
+                    "close": "20:30"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "20:30"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "16:30"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "08:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "08:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "08:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "08:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "08:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "08:00",
+                    "close": "20:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "09:00",
+                    "close": "17:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 - 21:00"
+                }
+            ],
+            "restaurant": [
+                {
+                    "heading": "Boxing Day:",
+                    "body": "09:30 - 17:30"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "09:30 - 17:30"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "09:30 - 17:30"
+                }
+            ],
+            "bistro": [
+                {
+                    "heading": ""
+                }
+            ],
+            "clickncollect": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "08:00 - 20:00"
+                },
+                {
+                    "body": "Please collect your order on your selected day, once you have received your 'ready to collect' email.​​"
+                },
+                {
+                    "heading": "Boxing Day:",
+                    "body": "09:00 - 17:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "09:00 - 17:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "09:00 - 17:00"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/sheffield/",
+        "placeId": "ChIJc775u5N3eUgRMSj0AYxpPLM",
+        "displayNameAlternate": "IKEA Sheffield"
+    },
+    {
+        "id": "125",
+        "name": "IKEA Southampton",
+        "lat": "50.9037",
+        "lng": "-1.4129",
+        "address": {
+            "street": "West Quay Road",
+            "zipCode": "SO15 1GY",
+            "city": "Southhampton",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBHAM",
+            "displayAddress": "West Quay Road, Southhampton"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Southampton",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "11:00",
+                    "close": "17:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-27",
+                    "open": "10:00",
+                    "close": "19:00"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "09:00",
+                    "close": "18:00",
+                    "reason": "New Year's Eve"
+                },
+                {
+                    "date": "2023-01-01",
+                    "open": "11:00",
+                    "close": "17:00",
+                    "reason": "New Year's Day"
+                },
+                {
+                    "date": "2023-01-02",
+                    "open": "10:00",
+                    "close": "19:00"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Eve"
+                },
+                {
+                    "date": "2022-12-25",
+                    "reason": "Christmas Day"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:30",
+                    "close": "20:30"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:30",
+                    "close": "20:30"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:30",
+                    "close": "20:30"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:30",
+                    "close": "20:30"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:30",
+                    "close": "20:30"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "20:30"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "16:00"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "09:00",
+                    "close": "17:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 - 19:00"
+                }
+            ],
+            "restaurant": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "09:30 - 18:30"
+                },
+                {
+                    "heading": "Boxing Day:",
+                    "body": "09:30 - 18:30"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "09:00 - 18:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:30 - 16:00"
+                }
+            ],
+            "bistro": [
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "09:00 - 18:30"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:30 - 16:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "09:00 - 18:30"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:30 - 16:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 - 19:00"
+                },
+                {
+                    "body": "Please collect your order on your selected day, once you have received your 'ready to collect' email.​​"
+                },
+                {
+                    "heading": "Boxing Day:",
+                    "body": "09:00 - 17:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "08:00 - 18:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "09:00 - 17:00"
+                },
+                {
+                    "heading": "27th December:",
+                    "body": "10:00 - 19:00"
+                },
+                {
+                    "heading": "2nd January:",
+                    "body": "10:00 - 19:00"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/southampton/",
+        "placeId": "ChIJ-YIFG7l2dEgRpjRV19bjbpA",
+        "displayNameAlternate": "IKEA Southampton"
+    },
+    {
+        "id": "140",
+        "name": "IKEA Warrington",
+        "lat": "53.4178",
+        "lng": "-2.6289",
+        "address": {
+            "street": "910 Europe Boulevard",
+            "zipCode": "WA5 7TY",
+            "city": "Warrington",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBWRT",
+            "displayAddress": "910 Europe Boulevard, Warrington"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Warrington",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "09:00",
+                    "close": "18:00",
+                    "reason": "New Year's Eve"
+                },
+                {
+                    "date": "2023-01-01",
+                    "open": "11:00",
+                    "close": "17:00",
+                    "reason": "New Year's Day"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Eve"
+                },
+                {
+                    "date": "2022-12-25",
+                    "reason": "Christmas Day"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "08:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "16:30"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "smaland": [
+                {
+                    "day": "MON",
+                    "open": "10:30",
+                    "close": "18:30"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:30",
+                    "close": "18:30"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:30",
+                    "close": "18:30"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:30",
+                    "close": "18:30"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:30",
+                    "close": "18:30"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:30",
+                    "close": "18:30"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:30",
+                    "close": "16:30"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "08:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "08:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "08:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "08:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "08:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "08:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "17:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 – 22:00​"
+                }
+            ],
+            "restaurant": [
+                {
+                    "heading": "Boxing Day:",
+                    "body": "10:00 - 17:30"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "08:30 - 17:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:00 - 17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 – 22:00​"
+                },
+                {
+                    "body": "Please collect your order on your selected day, once you have received your 'ready to collect' email.​​"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "08:00 - 18:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:00 - 17:00"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/warrington/",
+        "placeId": "ChIJY4u0BQgDe0gRAcFDabgjO1A",
+        "displayNameAlternate": "IKEA Warrington"
+    },
+    {
+        "id": "142",
+        "name": "IKEA Birmingham - Wednesbury",
+        "lat": "52.5697",
+        "lng": "-2.0156",
+        "address": {
+            "street": "Park Lane, Wednesbury",
+            "zipCode": "WS10 9SF",
+            "city": "West Midlands",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBBIR",
+            "displayAddress": "Park Lane, Wednesbury, West Midlands"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Wednesbury",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "10:00",
+                    "close": "18:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "09:00",
+                    "close": "18:00",
+                    "reason": "New Year's Eve"
+                },
+                {
+                    "date": "2023-01-01",
+                    "open": "11:00",
+                    "close": "17:00",
+                    "reason": "New Year's Day"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Eve"
+                },
+                {
+                    "date": "2022-12-25",
+                    "reason": "Christmas Day"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:30",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:00",
+                    "close": "16:30"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "11:00",
+                    "close": "17:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "08:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "08:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "08:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "08:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "08:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "08:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "09:00",
+                    "close": "17:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 - 21:00"
+                },
+                {
+                    "heading": "Browsing hours:",
+                    "body": "Monday - Saturday: 09:30 - 10:00, Sunday: 10:30 - 11:00"
+                }
+            ],
+            "restaurant": [
+                {
+                    "heading": "Boxing Day:",
+                    "body": "10:00 - 17:00"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "09:00 - 17:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:00 - 16:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "08:00 - 21:00"
+                },
+                {
+                    "body": "Please collect your order on your selected day, once you have received your 'ready to collect' email.​​"
+                },
+                {
+                    "body": "When entering the carpark please follow the signs to the click and collect marquee."
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "08:00 - 18:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:00 - 17:00"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/birmingham/",
+        "placeId": "ChIJ8--j9vKYcEgRTGcJv2PJ7NQ",
+        "displayNameAlternate": "IKEA Wednesbury"
+    },
+    {
+        "id": "141",
+        "name": "IKEA London - Wembley",
+        "lat": "51.5537",
+        "lng": "-0.2605",
+        "address": {
+            "street": "2 Drury Way",
+            "zipCode": "NW10 0TH",
+            "city": "London",
+            "timezone": "Europe/London",
+            "stateProvinceCode": "GBLND",
+            "displayAddress": "2 Drury Way, London"
+        },
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        },
+        "displayName": "Wembley",
+        "hours": {
+            "normal": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:30",
+                    "close": "16:30"
+                }
+            ],
+            "exceptions": [
+                {
+                    "date": "2022-12-26",
+                    "open": "10:00",
+                    "close": "20:00",
+                    "reason": "Boxing Day"
+                },
+                {
+                    "date": "2022-12-31",
+                    "open": "09:00",
+                    "close": "18:00",
+                    "reason": "New Year's Eve"
+                },
+                {
+                    "date": "2023-01-01",
+                    "open": "10:30",
+                    "close": "16:30",
+                    "reason": "New Year's Day"
+                }
+            ],
+            "closed": [
+                {
+                    "date": "2022-12-24",
+                    "reason": "Christmas Eve"
+                },
+                {
+                    "date": "2022-12-25",
+                    "reason": "Christmas Day"
+                }
+            ],
+            "restaurant": [
+                {
+                    "day": "MON",
+                    "open": "09:30",
+                    "close": "21:30"
+                },
+                {
+                    "day": "TUE",
+                    "open": "09:30",
+                    "close": "21:30"
+                },
+                {
+                    "day": "WED",
+                    "open": "09:30",
+                    "close": "21:30"
+                },
+                {
+                    "day": "THU",
+                    "open": "09:30",
+                    "close": "21:30"
+                },
+                {
+                    "day": "FRI",
+                    "open": "09:30",
+                    "close": "21:30"
+                },
+                {
+                    "day": "SAT",
+                    "open": "09:00",
+                    "close": "21:30"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:30",
+                    "close": "16:00"
+                }
+            ],
+            "bistro": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:30",
+                    "close": "16:30"
+                }
+            ],
+            "swedishFoodMarket": [
+                {
+                    "day": "MON",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "10:00",
+                    "close": "22:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "10:30",
+                    "close": "16:30"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "day": "MON",
+                    "open": "07:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "TUE",
+                    "open": "07:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "WED",
+                    "open": "07:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "THU",
+                    "open": "07:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "FRI",
+                    "open": "07:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SAT",
+                    "open": "07:00",
+                    "close": "21:00"
+                },
+                {
+                    "day": "SUN",
+                    "open": "08:00",
+                    "close": "17:00"
+                }
+            ]
+        },
+        "extras": {
+            "normal": [
+                {
+                    "heading": "Browsing hours:",
+                    "body": "Monday - Friday: 09:30 - 10:00, Sunday: 10:00 - 10:30"
+                },
+                {
+                    "body": "During browsing hours, only our showroom and restaurant are open, checkouts open at the end of browsing hours."
+                }
+            ],
+            "restaurant": [
+                {
+                    "heading": "Boxing Day:",
+                    "body": "09:30 - 19:30"
+                },
+                {
+                    "heading": "New Year's Eve:",
+                    "body": "09:00 - 17:00"
+                },
+                {
+                    "heading": "New Year's Day:",
+                    "body": "10:30 - 16:00"
+                }
+            ],
+            "clickncollect": [
+                {
+                    "heading": "Bank holiday:",
+                    "body": "10:00 – 20:00​"
+                },
+                {
+                    "body": "Please collect your order on your selected day, once you have received your 'ready to collect' email.​​"
+                }
+            ]
+        },
+        "storePageUrl": "https://www.ikea.com/gb/en/stores/wembley/",
+        "placeId": "ChIJX5LZeZ8RdkgRM86w4u6I5D0",
+        "displayNameAlternate": "IKEA Wembley"
+    }
+]

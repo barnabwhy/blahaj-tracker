@@ -1,0 +1,254 @@
+[
+    {
+        "id": "113",
+        "name": "IKEA Belfast",
+        "lat": "54.6288",
+        "lng": "-5.8541",
+        "displayName": "Belfast",
+        "displayNameAlternate": "IKEA Belfast",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "264",
+        "name": "IKEA Bristol",
+        "lat": "51.4734",
+        "lng": "-2.5675",
+        "displayName": "Bristol",
+        "displayNameAlternate": "IKEA Bristol",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "267",
+        "name": "IKEA Cardiff",
+        "lat": "51.4626",
+        "lng": "-3.1886",
+        "displayName": "Cardiff",
+        "displayNameAlternate": "IKEA Cardiff",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "144",
+        "name": "IKEA London - Croydon",
+        "lat": "51.3794",
+        "lng": "-0.124",
+        "displayName": "Croydon",
+        "displayNameAlternate": "IKEA Croydon",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "265",
+        "name": "IKEA Edinburgh - Straiton",
+        "lat": "55.8795",
+        "lng": "-3.1705",
+        "displayName": "Edinburgh",
+        "displayNameAlternate": "IKEA Edinburgh",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "548",
+        "name": "IKEA Exeter",
+        "lat": "50.7068",
+        "lng": "-3.4775",
+        "displayName": "Exeter",
+        "displayNameAlternate": "IKEA Exeter",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "143",
+        "name": "IKEA Newcastle - Gateshead",
+        "lat": "54.9635",
+        "lng": "-1.7066",
+        "displayName": "Gateshead",
+        "displayNameAlternate": "IKEA Gateshead",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "266",
+        "name": "IKEA Glasgow - Braehead",
+        "lat": "55.868",
+        "lng": "-4.3572",
+        "displayName": "Glasgow",
+        "displayNameAlternate": "IKEA Glasgow",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "567",
+        "name": "IKEA Greenwich",
+        "lat": "51.4897",
+        "lng": "0.015",
+        "displayName": "Greenwich",
+        "displayNameAlternate": "IKEA Greenwich",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "642",
+        "name": "IKEA London - Hammersmith",
+        "lat": "51.4935",
+        "lng": "-0.2403",
+        "displayName": "Hammersmith",
+        "displayNameAlternate": "IKEA Hammersmith",
+        "buClassification": {
+            "code": "SMALL",
+            "name": "IKEA SMALL STORE"
+        }
+    },
+    {
+        "id": "262",
+        "name": "IKEA Lakeside",
+        "lat": "51.4799",
+        "lng": "0.284",
+        "displayName": "Lakeside",
+        "displayNameAlternate": "IKEA Lakeside",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "261",
+        "name": "IKEA Leeds",
+        "lat": "53.7448",
+        "lng": "-1.6462",
+        "displayName": "Leeds",
+        "displayNameAlternate": "IKEA Leeds",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "186",
+        "name": "IKEA Manchester",
+        "lat": "53.4907",
+        "lng": "-2.1013",
+        "displayName": "Manchester",
+        "displayNameAlternate": "IKEA Manchester",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "185",
+        "name": "IKEA Milton Keynes",
+        "lat": "52.0054",
+        "lng": "-0.7289",
+        "displayName": "Milton Keynes",
+        "displayNameAlternate": "IKEA Milton Keynes",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "263",
+        "name": "IKEA Nottingham",
+        "lat": "53.0017",
+        "lng": "-1.2851",
+        "displayName": "Nottingham",
+        "displayNameAlternate": "IKEA Nottingham",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "461",
+        "name": "IKEA Reading",
+        "lat": "51.4424",
+        "lng": "-1.0654",
+        "displayName": "Reading",
+        "displayNameAlternate": "IKEA Reading",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "519",
+        "name": "IKEA Sheffield",
+        "lat": "53.4071",
+        "lng": "-1.4108",
+        "displayName": "Sheffield",
+        "displayNameAlternate": "IKEA Sheffield",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "125",
+        "name": "IKEA Southampton",
+        "lat": "50.9037",
+        "lng": "-1.4129",
+        "displayName": "Southampton",
+        "displayNameAlternate": "IKEA Southampton",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "140",
+        "name": "IKEA Warrington",
+        "lat": "53.4178",
+        "lng": "-2.6289",
+        "displayName": "Warrington",
+        "displayNameAlternate": "IKEA Warrington",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "142",
+        "name": "IKEA Birmingham - Wednesbury",
+        "lat": "52.5697",
+        "lng": "-2.0156",
+        "displayName": "Wednesbury",
+        "displayNameAlternate": "IKEA Wednesbury",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    },
+    {
+        "id": "141",
+        "name": "IKEA London - Wembley",
+        "lat": "51.5537",
+        "lng": "-0.2605",
+        "displayName": "Wembley",
+        "displayNameAlternate": "IKEA Wembley",
+        "buClassification": {
+            "code": "STORE",
+            "name": "IKEA STORE"
+        }
+    }
+]

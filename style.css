@@ -1,0 +1,20 @@
+body {
+    font-family: 'Noto Sans', system-ui, sans-serif;
+    margin: 16px;
+}
+
+#blahaj > div {
+    margin-bottom: 16px;
+}
+#blahaj > div > * {
+    line-height: 1.5;
+    margin: 0;
+}
+#blahaj > div span {
+    vertical-align: middle;
+}
+#blahaj > div h6 {
+    display: inline;
+    vertical-align: middle;
+    margin-left: 8px;
+}
