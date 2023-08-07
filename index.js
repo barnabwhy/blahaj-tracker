@@ -107,7 +107,7 @@ function getCurrentPostCode() {
             cachedPostCode = postCode;
             resolve(postCode);
         })
-        .catch(reject);
+        .catch(resolve(null));
     })
 }
 
