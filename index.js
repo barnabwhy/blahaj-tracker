@@ -82,7 +82,7 @@ async function renderBlahajStock(storeStock) {
             }
         }
 
-        blahajEl.innerHTML += `<br><h2>IKEA stores${success ? ' (sorted by distance)' : ''}</h2>`;
+        blahajEl.innerHTML += '<br><h2>IKEA stores (sorted by distance)</h2>';
     }
 
     for(let store of storeData) {
