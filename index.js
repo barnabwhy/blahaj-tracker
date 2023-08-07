@@ -81,9 +81,9 @@ async function renderBlahajStock(storeStock) {
                 </div>`
             }
         }
-    }
 
-    blahajEl.innerHTML += `<br><h2>IKEA stores${success ? ' (sorted by distance)' : ''}</h2>`;
+        blahajEl.innerHTML += `<br><h2>IKEA stores${success ? ' (sorted by distance)' : ''}</h2>`;
+    }
 
     for(let store of storeData) {
         let avail55 = storeStock[store.id].availableStocks.find(s => s.itemNo == 20540663) || { quantity: 0, restocks: [] };
