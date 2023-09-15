@@ -89,7 +89,7 @@ async function renderBlahajStock(storeStock) {
         let avail55 = storeStock[store.id].availableStocks.find(s => s.itemNo == 20540663) || { quantity: 0, restocks: [] };
         let avail100 = storeStock[store.id].availableStocks.find(s => s.itemNo == 30373588) || { quantity: 0, restocks: [] };
         blahajEl.innerHTML += `<div>
-        <h3>${store.name}${success ? `(${getDistance(position.coords.latitude, position.coords.longitude, store.lat, store.lng).toFixed(1)}km)` : ''}</h3>
+        <h3>${store.name}${success ? ` (${getDistance(position.coords.latitude, position.coords.longitude, store.lat, store.lng).toFixed(1)}km)` : ''}</h3>
         <span>BLÅHAJ (55cm): ${avail55.quantity} in stock</span> ${(avail55.restocks.length > 0 ? `<h6>Restocking ${avail55.restocks[0].quantity} between ${avail55.restocks[0].earliestDate} and ${avail55.restocks[0].latestDate}</h6>` : "")}
         <br>
         <span>BLÅHAJ (100cm): ${avail100.quantity} in stock</span> ${(avail100.restocks.length > 0 ? `<h6>Restocking ${avail100.restocks[0].quantity} between ${avail100.restocks[0].earliestDate} and ${avail100.restocks[0].latestDate}<h6>` : "")}
