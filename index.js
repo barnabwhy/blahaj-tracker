@@ -1,8 +1,8 @@
 // const IKEA_API_STORES = "https://www.ikea.com/gb/en/meta-data/navigation/stores-detailed.json";
 // const IKEA_API_STORES = "stores-detailed.json";
 const IKEA_API_STORES = "stores";
-const IKEA_API_STOCK = "https://api.ingka.ikea.com/cia/availabilities/ru/gb?itemNos=%itemNos%";
-const IKEA_CLIENT_ID = "b6c117e5-ae61-4ef5-b4cc-e0b1e37f0631";
+const IKEA_API_STOCK = "https://api.ingka.ikea.com/cia/availabilities/ru/gb?itemNos=%itemNos%&expand=StoresList,Restocks,SalesLocations,DisplayLocations,ChildItems,FoodAvailabilities";
+const IKEA_CLIENT_ID = "ef382663-a2a5-40d4-8afe-f0634821c0ed";
 
 let storeData = [];
 (async () => {
@@ -24,14 +24,13 @@ async function getBlahajStock() {
     let stock = await getIkeaStock([20540663, 30373588], null);
     let storeStock = {};
     for(let s of stock) {
-        // console.log(s)
-        s.availableStocks = (s.availableStocks || []).map(a => { return { itemNo: s.itemKey.itemNo, quantity: a.quantity, type: a.type, restocks: a.restocks || [] } })
+        let availability = { itemNo: s.itemKey.itemNo, quantity: s.buyingOption.cashCarry.availability.quantity, type: s.type, restocks: s.restocks || [] }
         if(!storeStock[s.classUnitKey.classUnitCode]) {
             storeStock[s.classUnitKey.classUnitCode] = {
-                availableStocks: [...s.availableStocks]
+                availabilities: [availability]
             }
         } else {
-            storeStock[s.classUnitKey.classUnitCode].availableStocks.push(...s.availableStocks);
+            storeStock[s.classUnitKey.classUnitCode].availabilities.push(availability);
         }
     }
 
@@ -45,7 +44,7 @@ async function renderBlahajStock(storeStock) {
     if(success) {
         for(let i = 0; i < storeData.length; i++) {
             let store = storeData[i];
-            let avail = storeStock[store.id].availableStocks.find(s => s.itemNo == 20540663);
+            let avail = storeStock[store.id].availabilities.find(s => s.itemNo == 20540663);
             if(avail && avail.quantity > 0) {
                 blahajEl.innerHTML += `<div>
                 <h3>Nearest BLÅHAJ (55cm)</h3>
@@ -64,7 +63,7 @@ async function renderBlahajStock(storeStock) {
         }
         for(let i = 0; i < storeData.length; i++) {
             let store = storeData[i];
-            let avail = storeStock[store.id].availableStocks.find(s => s.itemNo == 30373588) || { quantity: 0, restocks: [] };
+            let avail = storeStock[store.id].availabilities.find(s => s.itemNo == 30373588) || { quantity: 0, restocks: [] };
             if(avail && avail.quantity > 0) {
                 blahajEl.innerHTML += `<div>
                 <h3>Nearest BLÅHAJ (100cm)</h3>
@@ -86,8 +85,18 @@ async function renderBlahajStock(storeStock) {
     }
 
     for(let store of storeData) {
-        let avail55 = storeStock[store.id].availableStocks.find(s => s.itemNo == 20540663) || { quantity: 0, restocks: [] };
-        let avail100 = storeStock[store.id].availableStocks.find(s => s.itemNo == 30373588) || { quantity: 0, restocks: [] };
+        if (storeStock[store.id] == undefined) {
+            console.warn(store.name + " : Missing stock info");
+
+            blahajEl.innerHTML += `<div>
+            <h3>${store.name}${success ? ` (${getDistance(position.coords.latitude, position.coords.longitude, store.lat, store.lng).toFixed(1)}km)` : ''}</h3>
+            <span>Stock information unavailable</span>
+            </div>`
+            continue;
+        }
+
+        let avail55 = storeStock[store.id].availabilities.find(s => s.itemNo == 20540663) || { quantity: 0, restocks: [] };
+        let avail100 = storeStock[store.id].availabilities.find(s => s.itemNo == 30373588) || { quantity: 0, restocks: [] };
         blahajEl.innerHTML += `<div>
         <h3>${store.name}${success ? ` (${getDistance(position.coords.latitude, position.coords.longitude, store.lat, store.lng).toFixed(1)}km)` : ''}</h3>
         <span>BLÅHAJ (55cm): ${avail55.quantity} in stock</span> ${(avail55.restocks.length > 0 ? `<h6>Restocking ${avail55.restocks[0].quantity} between ${avail55.restocks[0].earliestDate} and ${avail55.restocks[0].latestDate}</h6>` : "")}
@@ -107,7 +116,7 @@ function getIkeaStock(itemNos) {
             })
             .then((response) => response.json())
             .then((results) => {
-                resolve(results.data.filter(d => d.classUnitKey.classUnitType == "STO"))
+                resolve(results.availabilities.filter(d => d.classUnitKey.classUnitType == "STO"))
             })
             .catch(reject);
     });
